@@ -1,0 +1,34 @@
+
+Persontable
+key         key        field3  field2           field3 
+fname       lname       age     native_lng
+rob         cleary      12      
+sue         clancy      12
+
+SurnameToNation
+cleary   irish
+
+NativeLanguages
+irish           gaelic
+
+User                                    
+id      first_name      last_name      job_roles         
+1       rob             cleary         db_admin             
+2       sue             clancy         gardener
+3       jim             good           db_admn 
+
+
+# new role: "Flask Alchemist"
+#PizzaIngredients
+id  en      es        de
+1  Ham      Jambon      
+
+UserAccount
+user_id       user_name       password
+1               rc              rc123
+1               rc_test         rctest123      
+
+Address
+user_id         Address
+1                dublin, ireland
+1                wicklow, ireland
